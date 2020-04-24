@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1310368e-4690-46a0-8613-40b670e3a5dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1at2KliY6hxdgEbX123hG6X6AQ4" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationTest.setUser2">
+    <configuration name="ApplicationTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedisPractice01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.setUser2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedisPractice01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="setUser2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedisPractice01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="testOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedisPractice01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.testRedisRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedisPractice01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="testRedisRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RedisPractice01" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.anthony.redis.RedisApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTest.setUser2" />
+        <item itemvalue="JUnit.ApplicationTest.testRedis" />
+        <item itemvalue="JUnit.ApplicationTest.contextLoads" />
+        <item itemvalue="JUnit.ApplicationTest.testRedisRemove" />
+        <item itemvalue="JUnit.ApplicationTest.testOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1310368e-4690-46a0-8613-40b670e3a5dd" name="Default Changelist" comment="" />
+      <created>1587540507802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587540507802</updated>
+      <workItem from="1587540514535" duration="1228000" />
+      <workItem from="1587541878149" duration="1724000" />
+      <workItem from="1587545357784" duration="1387000" />
+      <workItem from="1587547212980" duration="1753000" />
+      <workItem from="1587549098082" duration="1505000" />
+      <workItem from="1587552569606" duration="1190000" />
+      <workItem from="1587554489800" duration="510000" />
+      <workItem from="1587606745733" duration="596000" />
+      <workItem from="1587608616507" duration="606000" />
+      <workItem from="1587620361261" duration="595000" />
+      <workItem from="1587622272062" duration="597000" />
+      <workItem from="1587624113865" duration="598000" />
+      <workItem from="1587626040017" duration="596000" />
+      <workItem from="1587628057677" duration="594000" />
+      <workItem from="1587629920110" duration="596000" />
+      <workItem from="1587635775445" duration="596000" />
+      <workItem from="1587692021882" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1660" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587541079158">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1660" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587541079158" />
+    <state x="1933" y="320" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587541077741">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1933" y="320" key="#com.intellij.ide.util.TreeClassChooserDialog/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587541077741" />
+    <state width="1361" height="175" key="GridCell.Tab.0.bottom" timestamp="1587548349198">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1361" height="175" key="GridCell.Tab.0.bottom/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587548349198" />
+    <state width="1361" height="175" key="GridCell.Tab.0.center" timestamp="1587548349197">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1361" height="175" key="GridCell.Tab.0.center/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587548349197" />
+    <state width="1361" height="175" key="GridCell.Tab.0.left" timestamp="1587548349196">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1361" height="175" key="GridCell.Tab.0.left/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587548349196" />
+    <state width="1361" height="175" key="GridCell.Tab.0.right" timestamp="1587548349197">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1361" height="175" key="GridCell.Tab.0.right/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587548349197" />
+    <state x="1733" y="191" key="Maven.ArtifactSearchDialog" timestamp="1587542517547">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1733" y="191" key="Maven.ArtifactSearchDialog/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587542517547" />
+    <state x="364" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1587698328489">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state x="1888" y="362" key="com.intellij.ide.util.TipDialog/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587553520230" />
+    <state x="364" y="304" key="com.intellij.ide.util.TipDialog/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1587698328489" />
+    <state x="1876" y="286" width="639" height="486" key="find.popup" timestamp="1587550744161">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1876" y="286" width="639" height="486" key="find.popup/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1587550744161" />
+  </component>
+</project>
